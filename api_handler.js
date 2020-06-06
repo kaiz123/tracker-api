@@ -37,6 +37,8 @@ const server = new ApolloServer({
     return error;
   },
   context: getContext,
+  playground: true,
+  introspection: true,
 });
 
 function installHandler(app) {
