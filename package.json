@@ -27,7 +27,7 @@
         "express": "^4.16.4",
         "google-auth-library": "^2.0.2",
         "graphql": "^0.13.2",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mongodb": "^3.1.10",
         "nodemon": "^1.18.9"
     },
